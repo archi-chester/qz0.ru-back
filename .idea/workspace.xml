@@ -15,39 +15,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="578" column="24" lean-forward="true" selection-start-line="578" selection-start-column="24" selection-end-line="578" selection-end-column="24" />
+            <state relative-caret-position="414">
+              <caret line="750" column="43" lean-forward="false" selection-start-line="750" selection-start-column="43" selection-end-line="750" selection-end-column="43" />
               <folding>
-                <element signature="e#1132#1569#0" expanded="true" />
-                <element signature="e#3597#3673#0" expanded="false" />
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#4047#4056#0" expanded="false" />
+                <element signature="e#4916#4946#0" expanded="false" />
+                <element signature="e#5029#5064#0" expanded="false" />
                 <element signature="n#!!block;n#getDataFromNode#0" expanded="false" />
                 <element signature="n#!!block;n#getText#0" expanded="false" />
                 <element signature="n#!!block;n#ps#0" expanded="false" />
                 <element signature="n#!!block;n#psForNews#0" expanded="false" />
+                <element signature="e#8395#8429#0" expanded="false" />
                 <element signature="n#!!block;n#postsFunc#0" expanded="false" />
-                <element signature="e#10109#10126#0" expanded="false" />
-                <element signature="e#10257#10329#0" expanded="false" />
                 <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-                <element signature="n#!!block;n#newsFunc#0" expanded="false" />
                 <element signature="n#!!block;n#testFunc#0" expanded="false" />
-                <element signature="e#14947#14964#0" expanded="false" />
-                <element signature="e#15095#15167#0" expanded="false" />
-                <marker date="1520712333066" expanded="true" signature="10003:10048" ph="SELECT text,... test" />
-                <marker date="1520712333066" expanded="true" signature="13424:13469" ph="SELECT text,... test" />
-                <marker date="1520712333066" expanded="true" signature="14839:14884" ph="SELECT text,... test" />
+                <element signature="n#!!block;n#initPromptArgs#0" expanded="false" />
+                <marker date="1526103001896" expanded="true" signature="10373:10418" ph="SELECT text,... test" />
+                <marker date="1526103001896" expanded="true" signature="13794:13839" ph="SELECT text,... test" />
+                <marker date="1526103001896" expanded="true" signature="15209:15254" ph="SELECT text,... test" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/test">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,7 +55,7 @@
       <file leaf-file-name="formdata.go" pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/go/src/mime/multipart/formdata.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="2358">
               <caret line="138" column="15" lean-forward="false" selection-start-line="138" selection-start-column="5" selection-end-line="138" selection-end-column="15" />
               <folding />
             </state>
@@ -66,7 +65,7 @@
       <file leaf-file-name="mux.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/github.com/gorilla/mux/mux.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2961">
+            <state relative-caret-position="4716">
               <caret line="268" column="17" lean-forward="false" selection-start-line="268" selection-start-column="17" selection-end-line="268" selection-end-column="17" />
               <folding />
             </state>
@@ -76,7 +75,7 @@
       <file leaf-file-name="request.go" pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/go/src/net/http/request.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="3852">
               <caret line="235" column="4" lean-forward="false" selection-start-line="235" selection-start-column="4" selection-end-line="235" selection-end-column="4" />
               <folding />
             </state>
@@ -151,8 +150,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,7 +222,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.build with port param">
+    <configuration name="build with port param" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$/src/github.com/archi-chester/crowl00" />
+      <go_parameters value="-i" />
+      <parameters value="23901" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go" />
+      <directory value="$PROJECT_DIR$" />
+    </configuration>
     <configuration name="build" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$/src/github.com/archi-chester/crowl00" />
@@ -313,6 +321,10 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Go Build.build" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.build with port param" />
+    </list>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
@@ -346,10 +358,10 @@
     <option name="totallyTimeSpent" value="34855000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1280" height="997" extended-state="6" />
+    <frame x="23" y="169" width="1280" height="997" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20454545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20779221" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5125" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -413,7 +425,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Сыро и на коленке, но оно отправляет данные постика в БД" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сыро и на коленке, но оно отправляет данные постика в БД" />
+    <MESSAGE value="Реализована загрузка файлов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Реализована загрузка файлов" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -422,26 +435,90 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="6174">
+          <caret line="578" column="24" lean-forward="false" selection-start-line="578" selection-start-column="24" selection-end-line="578" selection-end-column="24" />
           <folding>
-            <element signature="e#1132#1569#0" expanded="true" />
-            <element signature="e#3597#3673#0" expanded="false" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#4047#4056#0" expanded="false" />
+            <element signature="e#4916#4946#0" expanded="false" />
+            <element signature="e#5029#5064#0" expanded="false" />
             <element signature="n#!!block;n#getDataFromNode#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
+            <element signature="e#8395#8429#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
-            <element signature="e#10109#10126#0" expanded="false" />
-            <element signature="e#10257#10329#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <element signature="n#!!block;n#newsFunc#0" expanded="false" />
             <element signature="n#!!block;n#testFunc#0" expanded="false" />
-            <element signature="e#14947#14964#0" expanded="false" />
-            <element signature="e#15095#15167#0" expanded="false" />
-            <marker date="1520712333066" expanded="true" signature="10003:10048" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="13424:13469" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="14839:14884" ph="SELECT text,... test" />
+            <element signature="n#!!block;n#initPromptArgs#0" expanded="false" />
+            <marker date="1526103001896" expanded="true" signature="10373:10418" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="13794:13839" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="15209:15254" ph="SELECT text,... test" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/mime/multipart/formdata.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="138" column="15" lean-forward="false" selection-start-line="138" selection-start-column="5" selection-end-line="138" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/gorilla/mux/mux.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4824">
+          <caret line="268" column="17" lean-forward="false" selection-start-line="268" selection-start-column="17" selection-end-line="268" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/net/http/request.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3852">
+          <caret line="235" column="4" lean-forward="false" selection-start-line="235" selection-start-column="4" selection-end-line="235" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/stdout">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="85" lean-forward="false" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#4047#4056#0" expanded="false" />
+            <element signature="e#4916#4946#0" expanded="false" />
+            <element signature="e#5029#5064#0" expanded="false" />
+            <element signature="n#!!block;n#getDataFromNode#0" expanded="false" />
+            <element signature="n#!!block;n#getText#0" expanded="false" />
+            <element signature="n#!!block;n#ps#0" expanded="false" />
+            <element signature="n#!!block;n#psForNews#0" expanded="false" />
+            <element signature="e#8395#8429#0" expanded="false" />
+            <element signature="n#!!block;n#postsFunc#0" expanded="false" />
+            <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
+            <element signature="n#!!block;n#testFunc#0" expanded="false" />
+            <element signature="n#!!block;n#initPromptArgs#0" expanded="false" />
+            <marker date="1526103001896" expanded="true" signature="10373:10418" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="13794:13839" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="15209:15254" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -459,23 +536,22 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1132#1569#0" expanded="true" />
-            <element signature="e#3597#3673#0" expanded="false" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#4047#4056#0" expanded="false" />
+            <element signature="e#4916#4946#0" expanded="false" />
+            <element signature="e#5029#5064#0" expanded="false" />
             <element signature="n#!!block;n#getDataFromNode#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
+            <element signature="e#8395#8429#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
-            <element signature="e#10109#10126#0" expanded="false" />
-            <element signature="e#10257#10329#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <element signature="n#!!block;n#newsFunc#0" expanded="false" />
             <element signature="n#!!block;n#testFunc#0" expanded="false" />
-            <element signature="e#14947#14964#0" expanded="false" />
-            <element signature="e#15095#15167#0" expanded="false" />
-            <marker date="1520712333066" expanded="true" signature="10003:10048" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="13424:13469" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="14839:14884" ph="SELECT text,... test" />
+            <element signature="n#!!block;n#initPromptArgs#0" expanded="false" />
+            <marker date="1526103001896" expanded="true" signature="10373:10418" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="13794:13839" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="15209:15254" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -493,93 +569,22 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1132#1569#0" expanded="true" />
-            <element signature="e#3597#3673#0" expanded="false" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#4047#4056#0" expanded="false" />
+            <element signature="e#4916#4946#0" expanded="false" />
+            <element signature="e#5029#5064#0" expanded="false" />
             <element signature="n#!!block;n#getDataFromNode#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
+            <element signature="e#8395#8429#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
-            <element signature="e#10109#10126#0" expanded="false" />
-            <element signature="e#10257#10329#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <element signature="n#!!block;n#newsFunc#0" expanded="false" />
             <element signature="n#!!block;n#testFunc#0" expanded="false" />
-            <element signature="e#14947#14964#0" expanded="false" />
-            <element signature="e#15095#15167#0" expanded="false" />
-            <marker date="1520712333066" expanded="true" signature="10003:10048" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="13424:13469" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="14839:14884" ph="SELECT text,... test" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/github.com/jmoiron/sqlx/sqlx.go" />
-    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/stdout">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="85" lean-forward="false" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1132#1569#0" expanded="true" />
-            <element signature="e#3597#3673#0" expanded="false" />
-            <element signature="n#!!block;n#getDataFromNode#0" expanded="false" />
-            <element signature="n#!!block;n#getText#0" expanded="false" />
-            <element signature="n#!!block;n#ps#0" expanded="false" />
-            <element signature="n#!!block;n#psForNews#0" expanded="false" />
-            <element signature="n#!!block;n#postsFunc#0" expanded="false" />
-            <element signature="e#10109#10126#0" expanded="false" />
-            <element signature="e#10257#10329#0" expanded="false" />
-            <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <element signature="n#!!block;n#newsFunc#0" expanded="false" />
-            <element signature="n#!!block;n#testFunc#0" expanded="false" />
-            <element signature="e#14947#14964#0" expanded="false" />
-            <element signature="e#15095#15167#0" expanded="false" />
-            <marker date="1520712333066" expanded="true" signature="10003:10048" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="13424:13469" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="14839:14884" ph="SELECT text,... test" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/github.com/jmoiron/sqlx/sqlx.go" />
-    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/stdout">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="85" lean-forward="false" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#1132#1569#0" expanded="true" />
-            <element signature="e#3597#3673#0" expanded="false" />
-            <element signature="n#!!block;n#getDataFromNode#0" expanded="false" />
-            <element signature="n#!!block;n#getText#0" expanded="false" />
-            <element signature="n#!!block;n#ps#0" expanded="false" />
-            <element signature="n#!!block;n#psForNews#0" expanded="false" />
-            <element signature="n#!!block;n#postsFunc#0" expanded="false" />
-            <element signature="e#10109#10126#0" expanded="false" />
-            <element signature="e#10257#10329#0" expanded="false" />
-            <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <element signature="n#!!block;n#newsFunc#0" expanded="false" />
-            <element signature="n#!!block;n#testFunc#0" expanded="false" />
-            <element signature="e#14947#14964#0" expanded="false" />
-            <element signature="e#15095#15167#0" expanded="false" />
-            <marker date="1520712333066" expanded="true" signature="10003:10048" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="13424:13469" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="14839:14884" ph="SELECT text,... test" />
+            <element signature="n#!!block;n#initPromptArgs#0" expanded="false" />
+            <marker date="1526103001896" expanded="true" signature="10373:10418" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="13794:13839" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="15209:15254" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -598,23 +603,22 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1132#1569#0" expanded="true" />
-            <element signature="e#3597#3673#0" expanded="false" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#4047#4056#0" expanded="false" />
+            <element signature="e#4916#4946#0" expanded="false" />
+            <element signature="e#5029#5064#0" expanded="false" />
             <element signature="n#!!block;n#getDataFromNode#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
+            <element signature="e#8395#8429#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
-            <element signature="e#10109#10126#0" expanded="false" />
-            <element signature="e#10257#10329#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <element signature="n#!!block;n#newsFunc#0" expanded="false" />
             <element signature="n#!!block;n#testFunc#0" expanded="false" />
-            <element signature="e#14947#14964#0" expanded="false" />
-            <element signature="e#15095#15167#0" expanded="false" />
-            <marker date="1520712333066" expanded="true" signature="10003:10048" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="13424:13469" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="14839:14884" ph="SELECT text,... test" />
+            <element signature="n#!!block;n#initPromptArgs#0" expanded="false" />
+            <marker date="1526103001896" expanded="true" signature="10373:10418" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="13794:13839" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="15209:15254" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -633,23 +637,90 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#1132#1569#0" expanded="true" />
-            <element signature="e#3597#3673#0" expanded="false" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#4047#4056#0" expanded="false" />
+            <element signature="e#4916#4946#0" expanded="false" />
+            <element signature="e#5029#5064#0" expanded="false" />
             <element signature="n#!!block;n#getDataFromNode#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
+            <element signature="e#8395#8429#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
-            <element signature="e#10109#10126#0" expanded="false" />
-            <element signature="e#10257#10329#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <element signature="n#!!block;n#newsFunc#0" expanded="false" />
             <element signature="n#!!block;n#testFunc#0" expanded="false" />
-            <element signature="e#14947#14964#0" expanded="false" />
-            <element signature="e#15095#15167#0" expanded="false" />
-            <marker date="1520712333066" expanded="true" signature="10003:10048" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="13424:13469" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="14839:14884" ph="SELECT text,... test" />
+            <element signature="n#!!block;n#initPromptArgs#0" expanded="false" />
+            <marker date="1526103001896" expanded="true" signature="10373:10418" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="13794:13839" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="15209:15254" ph="SELECT text,... test" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/jmoiron/sqlx/sqlx.go" />
+    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/stdout">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="85" lean-forward="false" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#4047#4056#0" expanded="false" />
+            <element signature="e#4916#4946#0" expanded="false" />
+            <element signature="e#5029#5064#0" expanded="false" />
+            <element signature="n#!!block;n#getDataFromNode#0" expanded="false" />
+            <element signature="n#!!block;n#getText#0" expanded="false" />
+            <element signature="n#!!block;n#ps#0" expanded="false" />
+            <element signature="n#!!block;n#psForNews#0" expanded="false" />
+            <element signature="e#8395#8429#0" expanded="false" />
+            <element signature="n#!!block;n#postsFunc#0" expanded="false" />
+            <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
+            <element signature="n#!!block;n#testFunc#0" expanded="false" />
+            <element signature="n#!!block;n#initPromptArgs#0" expanded="false" />
+            <marker date="1526103001896" expanded="true" signature="10373:10418" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="13794:13839" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="15209:15254" ph="SELECT text,... test" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/jmoiron/sqlx/sqlx.go" />
+    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/stdout">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="85" lean-forward="false" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#4047#4056#0" expanded="false" />
+            <element signature="e#4916#4946#0" expanded="false" />
+            <element signature="e#5029#5064#0" expanded="false" />
+            <element signature="n#!!block;n#getDataFromNode#0" expanded="false" />
+            <element signature="n#!!block;n#getText#0" expanded="false" />
+            <element signature="n#!!block;n#ps#0" expanded="false" />
+            <element signature="n#!!block;n#psForNews#0" expanded="false" />
+            <element signature="e#8395#8429#0" expanded="false" />
+            <element signature="n#!!block;n#postsFunc#0" expanded="false" />
+            <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
+            <element signature="n#!!block;n#testFunc#0" expanded="false" />
+            <element signature="n#!!block;n#initPromptArgs#0" expanded="false" />
+            <marker date="1526103001896" expanded="true" signature="10373:10418" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="13794:13839" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="15209:15254" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -673,23 +744,22 @@
         <state relative-caret-position="792">
           <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
           <folding>
-            <element signature="e#1132#1569#0" expanded="true" />
-            <element signature="e#3597#3673#0" expanded="false" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#4047#4056#0" expanded="false" />
+            <element signature="e#4916#4946#0" expanded="false" />
+            <element signature="e#5029#5064#0" expanded="false" />
             <element signature="n#!!block;n#getDataFromNode#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
+            <element signature="e#8395#8429#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
-            <element signature="e#10109#10126#0" expanded="false" />
-            <element signature="e#10257#10329#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <element signature="n#!!block;n#newsFunc#0" expanded="false" />
             <element signature="n#!!block;n#testFunc#0" expanded="false" />
-            <element signature="e#14947#14964#0" expanded="false" />
-            <element signature="e#15095#15167#0" expanded="false" />
-            <marker date="1520712333066" expanded="true" signature="10003:10048" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="13424:13469" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="14839:14884" ph="SELECT text,... test" />
+            <element signature="n#!!block;n#initPromptArgs#0" expanded="false" />
+            <marker date="1526103001896" expanded="true" signature="10373:10418" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="13794:13839" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="15209:15254" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -726,7 +796,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/github.com/gorilla/mux/mux.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2961">
+        <state relative-caret-position="4716">
           <caret line="268" column="17" lean-forward="false" selection-start-line="268" selection-start-column="17" selection-end-line="268" selection-end-column="17" />
           <folding />
         </state>
@@ -736,13 +806,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file:///usr/local/go/src/net/http/request.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="3852">
           <caret line="235" column="4" lean-forward="false" selection-start-line="235" selection-start-column="4" selection-end-line="235" selection-end-column="4" />
           <folding />
         </state>
@@ -750,43 +819,42 @@
     </entry>
     <entry file="file:///usr/local/go/src/mime/multipart/formdata.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="2358">
           <caret line="138" column="15" lean-forward="false" selection-start-line="138" selection-start-column="5" selection-end-line="138" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="578" column="24" lean-forward="true" selection-start-line="578" selection-start-column="24" selection-end-line="578" selection-end-column="24" />
+        <state relative-caret-position="414">
+          <caret line="750" column="43" lean-forward="false" selection-start-line="750" selection-start-column="43" selection-end-line="750" selection-end-column="43" />
           <folding>
-            <element signature="e#1132#1569#0" expanded="true" />
-            <element signature="e#3597#3673#0" expanded="false" />
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#4047#4056#0" expanded="false" />
+            <element signature="e#4916#4946#0" expanded="false" />
+            <element signature="e#5029#5064#0" expanded="false" />
             <element signature="n#!!block;n#getDataFromNode#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
+            <element signature="e#8395#8429#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
-            <element signature="e#10109#10126#0" expanded="false" />
-            <element signature="e#10257#10329#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <element signature="n#!!block;n#newsFunc#0" expanded="false" />
             <element signature="n#!!block;n#testFunc#0" expanded="false" />
-            <element signature="e#14947#14964#0" expanded="false" />
-            <element signature="e#15095#15167#0" expanded="false" />
-            <marker date="1520712333066" expanded="true" signature="10003:10048" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="13424:13469" ph="SELECT text,... test" />
-            <marker date="1520712333066" expanded="true" signature="14839:14884" ph="SELECT text,... test" />
+            <element signature="n#!!block;n#initPromptArgs#0" expanded="false" />
+            <marker date="1526103001896" expanded="true" signature="10373:10418" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="13794:13839" ph="SELECT text,... test" />
+            <marker date="1526103001896" expanded="true" signature="15209:15254" ph="SELECT text,... test" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/test">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
