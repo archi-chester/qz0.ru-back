@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa8615f5-0dd8-4aff-bfc0-b80c09c24364" name="Default" comment="Добавил функционал отправки почты">
+    <list default="true" id="aa8615f5-0dd8-4aff-bfc0-b80c09c24364" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/github.com/archi-chester/crowl00" afterPath="$PROJECT_DIR$/src/github.com/archi-chester/crowl00" />
+      <change beforePath="$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go" afterPath="$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,21 +19,21 @@
       <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="927" column="39" lean-forward="false" selection-start-line="927" selection-start-column="39" selection-end-line="927" selection-end-column="39" />
+            <state relative-caret-position="414">
+              <caret line="106" column="24" lean-forward="true" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="24" />
               <folding>
                 <element signature="n#!!doc" expanded="false" />
-                <element signature="e#5860#5890#0" expanded="false" />
-                <element signature="e#5973#6008#0" expanded="false" />
+                <element signature="e#5859#5889#0" expanded="false" />
+                <element signature="e#5972#6007#0" expanded="false" />
                 <element signature="n#!!block;n#getText#0" expanded="false" />
                 <element signature="n#!!block;n#ps#0" expanded="false" />
                 <element signature="n#!!block;n#psForNews#0" expanded="false" />
-                <element signature="e#9547#9581#0" expanded="false" />
+                <element signature="e#9546#9580#0" expanded="false" />
                 <element signature="n#!!block;n#postsFunc#0" expanded="false" />
                 <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-                <marker date="1526144397932" expanded="true" signature="11525:11570" ph="SELECT text,... test" />
-                <marker date="1526144397932" expanded="true" signature="14946:14991" ph="SELECT text,... test" />
-                <marker date="1526144397932" expanded="true" signature="16361:16406" ph="SELECT text,... test" />
+                <marker date="1526144580048" expanded="true" signature="11524:11569" ph="SELECT text,... test" />
+                <marker date="1526144580048" expanded="true" signature="14945:14990" ph="SELECT text,... test" />
+                <marker date="1526144580048" expanded="true" signature="16360:16405" ph="SELECT text,... test" />
               </folding>
             </state>
           </provider>
@@ -475,7 +476,8 @@
     <MESSAGE value="Реализована загрузка файлов" />
     <MESSAGE value="Дописал поддержку передачи порта через коммандную стркоку" />
     <MESSAGE value="Добавил функционал отправки почты" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил функционал отправки почты" />
+    <MESSAGE value="Готово" />
+    <option name="LAST_COMMIT_MESSAGE" value="Готово" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -488,17 +490,17 @@
           <caret line="578" column="24" lean-forward="false" selection-start-line="578" selection-start-column="24" selection-end-line="578" selection-end-column="24" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
-            <element signature="e#5860#5890#0" expanded="false" />
-            <element signature="e#5973#6008#0" expanded="false" />
+            <element signature="e#5859#5889#0" expanded="false" />
+            <element signature="e#5972#6007#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
-            <element signature="e#9547#9581#0" expanded="false" />
+            <element signature="e#9546#9580#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <marker date="1526144397932" expanded="true" signature="11525:11570" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="14946:14991" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="16361:16406" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="11524:11569" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="14945:14990" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="16360:16405" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -549,17 +551,17 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
-            <element signature="e#5860#5890#0" expanded="false" />
-            <element signature="e#5973#6008#0" expanded="false" />
+            <element signature="e#5859#5889#0" expanded="false" />
+            <element signature="e#5972#6007#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
-            <element signature="e#9547#9581#0" expanded="false" />
+            <element signature="e#9546#9580#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <marker date="1526144397932" expanded="true" signature="11525:11570" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="14946:14991" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="16361:16406" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="11524:11569" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="14945:14990" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="16360:16405" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -578,17 +580,17 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
-            <element signature="e#5860#5890#0" expanded="false" />
-            <element signature="e#5973#6008#0" expanded="false" />
+            <element signature="e#5859#5889#0" expanded="false" />
+            <element signature="e#5972#6007#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
-            <element signature="e#9547#9581#0" expanded="false" />
+            <element signature="e#9546#9580#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <marker date="1526144397932" expanded="true" signature="11525:11570" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="14946:14991" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="16361:16406" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="11524:11569" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="14945:14990" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="16360:16405" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -607,47 +609,17 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
-            <element signature="e#5860#5890#0" expanded="false" />
-            <element signature="e#5973#6008#0" expanded="false" />
+            <element signature="e#5859#5889#0" expanded="false" />
+            <element signature="e#5972#6007#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
-            <element signature="e#9547#9581#0" expanded="false" />
+            <element signature="e#9546#9580#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <marker date="1526144397932" expanded="true" signature="11525:11570" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="14946:14991" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="16361:16406" ph="SELECT text,... test" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/github.com/jmoiron/sqlx/sqlx.go" />
-    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/stdout">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="85" lean-forward="false" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#5860#5890#0" expanded="false" />
-            <element signature="e#5973#6008#0" expanded="false" />
-            <element signature="n#!!block;n#getText#0" expanded="false" />
-            <element signature="n#!!block;n#ps#0" expanded="false" />
-            <element signature="n#!!block;n#psForNews#0" expanded="false" />
-            <element signature="e#9547#9581#0" expanded="false" />
-            <element signature="n#!!block;n#postsFunc#0" expanded="false" />
-            <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <marker date="1526144397932" expanded="true" signature="11525:11570" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="14946:14991" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="16361:16406" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="11524:11569" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="14945:14990" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="16360:16405" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -667,17 +639,17 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
-            <element signature="e#5860#5890#0" expanded="false" />
-            <element signature="e#5973#6008#0" expanded="false" />
+            <element signature="e#5859#5889#0" expanded="false" />
+            <element signature="e#5972#6007#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
-            <element signature="e#9547#9581#0" expanded="false" />
+            <element signature="e#9546#9580#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <marker date="1526144397932" expanded="true" signature="11525:11570" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="14946:14991" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="16361:16406" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="11524:11569" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="14945:14990" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="16360:16405" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -697,17 +669,17 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
-            <element signature="e#5860#5890#0" expanded="false" />
-            <element signature="e#5973#6008#0" expanded="false" />
+            <element signature="e#5859#5889#0" expanded="false" />
+            <element signature="e#5972#6007#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
-            <element signature="e#9547#9581#0" expanded="false" />
+            <element signature="e#9546#9580#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <marker date="1526144397932" expanded="true" signature="11525:11570" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="14946:14991" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="16361:16406" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="11524:11569" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="14945:14990" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="16360:16405" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -727,17 +699,47 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
-            <element signature="e#5860#5890#0" expanded="false" />
-            <element signature="e#5973#6008#0" expanded="false" />
+            <element signature="e#5859#5889#0" expanded="false" />
+            <element signature="e#5972#6007#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
-            <element signature="e#9547#9581#0" expanded="false" />
+            <element signature="e#9546#9580#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <marker date="1526144397932" expanded="true" signature="11525:11570" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="14946:14991" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="16361:16406" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="11524:11569" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="14945:14990" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="16360:16405" ph="SELECT text,... test" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/jmoiron/sqlx/sqlx.go" />
+    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/stdout">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="85" lean-forward="false" selection-start-line="8" selection-start-column="85" selection-end-line="8" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#5859#5889#0" expanded="false" />
+            <element signature="e#5972#6007#0" expanded="false" />
+            <element signature="n#!!block;n#getText#0" expanded="false" />
+            <element signature="n#!!block;n#ps#0" expanded="false" />
+            <element signature="n#!!block;n#psForNews#0" expanded="false" />
+            <element signature="e#9546#9580#0" expanded="false" />
+            <element signature="n#!!block;n#postsFunc#0" expanded="false" />
+            <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
+            <marker date="1526144580048" expanded="true" signature="11524:11569" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="14945:14990" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="16360:16405" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -762,17 +764,17 @@
           <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
-            <element signature="e#5860#5890#0" expanded="false" />
-            <element signature="e#5973#6008#0" expanded="false" />
+            <element signature="e#5859#5889#0" expanded="false" />
+            <element signature="e#5972#6007#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
-            <element signature="e#9547#9581#0" expanded="false" />
+            <element signature="e#9546#9580#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <marker date="1526144397932" expanded="true" signature="11525:11570" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="14946:14991" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="16361:16406" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="11524:11569" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="14945:14990" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="16360:16405" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
@@ -864,21 +866,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/github.com/archi-chester/crowl00/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="927" column="39" lean-forward="false" selection-start-line="927" selection-start-column="39" selection-end-line="927" selection-end-column="39" />
+        <state relative-caret-position="414">
+          <caret line="106" column="24" lean-forward="true" selection-start-line="106" selection-start-column="24" selection-end-line="106" selection-end-column="24" />
           <folding>
             <element signature="n#!!doc" expanded="false" />
-            <element signature="e#5860#5890#0" expanded="false" />
-            <element signature="e#5973#6008#0" expanded="false" />
+            <element signature="e#5859#5889#0" expanded="false" />
+            <element signature="e#5972#6007#0" expanded="false" />
             <element signature="n#!!block;n#getText#0" expanded="false" />
             <element signature="n#!!block;n#ps#0" expanded="false" />
             <element signature="n#!!block;n#psForNews#0" expanded="false" />
-            <element signature="e#9547#9581#0" expanded="false" />
+            <element signature="e#9546#9580#0" expanded="false" />
             <element signature="n#!!block;n#postsFunc#0" expanded="false" />
             <element signature="n#!!block;n#addPostFunc#0" expanded="false" />
-            <marker date="1526144397932" expanded="true" signature="11525:11570" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="14946:14991" ph="SELECT text,... test" />
-            <marker date="1526144397932" expanded="true" signature="16361:16406" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="11524:11569" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="14945:14990" ph="SELECT text,... test" />
+            <marker date="1526144580048" expanded="true" signature="16360:16405" ph="SELECT text,... test" />
           </folding>
         </state>
       </provider>
